@@ -1,9 +1,15 @@
 # Rating-emoji-mini-project
 This is a rating mini project which give different emoji rating levels
 
-The following sites are where I researched the information used in the development of this project
-+ [Picture Template](#)
-+ [Learning Material for the codes](https://www.youtube.com)
+The following sites are where you can research the information used in the development of this project
++ [My YouTbue Channel for the Tutorials](www.youtube.com/@christopherokay_)
++ [My TikTok for a shorter version](www.tittok.com/christopherokay)
+
+
+# CheckOut my Other Mini Projects 
++ [Real-Time-digital-clock](https://github.com/ChristopherOkay/Real-Time-digital-clock)
++ [Rating-emoji-mini-project](https://github.com/ChristopherOkay/Rating-emoji-mini-project/)
++ [More coming!](https://github.com/ChristopherOkay/)
 
 
 # Usage
